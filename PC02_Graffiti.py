@@ -5,7 +5,7 @@
 Turtle starter code
 ATLS 1300
 Author: Dr. Z
-Author: YOUR NAME
+Author: Nita Byati
 May 29, 2020
 '''
 
